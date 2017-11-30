@@ -1,5 +1,4 @@
-# Ecole_42
+# Piscine_reloaded
 
-# 30/11/2017
-Creation of my own github to save my school projects
-Creation of the branch piscine_reloaded 
+First project ask to made at school 
+Only project I made during my piscine in July
